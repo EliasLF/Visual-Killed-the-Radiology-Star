@@ -1,0 +1,25 @@
+{
+    "team_name": "Visual Killed the Radiology Star",
+    "students": [
+        {
+            "first_name": "Elias",
+            "last_name": "Foramitti",
+            "workload": 0.25
+        },
+        {
+            "first_name": "TODO",
+            "last_name": "TODO",
+            "workload": 0.25
+        },
+        {
+            "first_name": "TODO",
+            "last_name": "TODO",
+            "workload": 0.25
+        },
+        {
+            "first_name": "TODO",
+            "last_name": "TODO",
+            "workload": 0.25
+        }
+    ]
+} 

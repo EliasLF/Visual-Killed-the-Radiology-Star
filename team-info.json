@@ -1,0 +1,33 @@
+{
+    "team_name": "Visual Killed the Radiology Star",
+    "students": [
+        {
+            "student_id": "k11917423",
+            "first_name": "Elias",
+            "last_name": "Foramitti",
+            "email": "mitti.leon@gmail.com",
+            "github_user": "EliasLF"
+        },
+        {
+            "student_id": "k12455347",
+            "first_name": "TODO",
+            "last_name": "TODO",
+            "email": "TODO",
+            "github_user": "TODO"
+        },
+        {
+            "student_id": "k12527614",
+            "first_name": "TODO",
+            "last_name": "TODO",
+            "email": "TODO",
+            "github_user": "TODO"
+        },
+        {
+            "student_id": "k12111171",
+            "first_name": "TODO",
+            "last_name": "TODO",
+            "email": "TODO",
+            "github_user": "TODO"
+        }
+    ]
+}
