@@ -2,8 +2,8 @@
 
 ## AI-assisted Subgroup Members
 
-- **Student 1:** Maria Boukhalfa Bennai – K12527614
-- **Student 2:** Moncef Zakaria Belaid – K12455347
+- **Student 1:** Maria Boukhalfa Bennai  K12527614
+- **Student 2:** Moncef Zakaria Belaid  K12455347
 
 ## 1. Introduction
 
