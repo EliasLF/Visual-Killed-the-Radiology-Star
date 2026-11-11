@@ -6,6 +6,7 @@ huggingface_hub<1.0
 torch
 torchvision
 numpy<2
+pandas
 pillow
 matplotlib
 psutil
