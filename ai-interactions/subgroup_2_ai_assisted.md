@@ -4,8 +4,8 @@
 
 During Phase I, our subgroup used two Generative AI tools:
 
-- **ChatGPT** – https://chatgpt.com/
-- **Claude.ai** – https://claude.ai/
+- **ChatGPT** : https://chatgpt.com/
+- **Claude.ai** : https://claude.ai/
 
 We used these tools as assistants throughout the project to support our understanding, implementation, debugging, and analysis.
 
