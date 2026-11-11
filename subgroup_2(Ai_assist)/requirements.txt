@@ -1,1 +1,14 @@
-
+# Versions of open_clip_torch / transformers match the BiomedCLIP model card.
+open_clip_torch==2.23.0
+transformers==4.35.2
+# transformers 4.x is not compatible with huggingface_hub 1.x
+huggingface_hub<1.0
+torch
+torchvision
+numpy<2
+pillow
+matplotlib
+psutil
+ipykernel
+ipywidgets
+jupyterlab
