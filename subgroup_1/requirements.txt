@@ -5,3 +5,9 @@ tqdm==4.70.1
 open_clip==3.3.0
 torchvision==0.29.1
 pillow==12.3.0
+matplotlib==3.11.2
+umap-learn==0.6.0
+openTSNE==1.0.4
+scikit-learn==1.9.1
+numpy==2.5.3
+IPython==9.17.1
